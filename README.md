@@ -1,5 +1,5 @@
 # TimSolo
-Portfolio
+projects
 
 * [webdev](stavrdriff.github.io/webdev/)
 * [luxo](stavrdriff.github.io/luxo/)
