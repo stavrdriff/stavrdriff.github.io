@@ -1,0 +1,334 @@
+header {
+	max-width: 1600px;
+	height: 750px;
+	margin:0 auto;
+	text-align: center;
+	background: url(../img/header.jpg);
+}
+.top-menu {
+	width: 1250px;
+	margin:0 auto;
+	display:flex;
+	justify-content: space-between;
+}
+nav {
+	margin-left: auto;
+}
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+nav a {
+	text-decoration: none;
+	font-size: 21px;
+	color:#fff;
+	font-family: 'Gentium Book Basic', serif;
+	font-weight: bold;
+	display: block;
+	padding:45px 20px 0;
+}
+nav a:hover {
+	border-top: 3px solid #fff;
+}
+.soc {
+	margin-top: 46px;
+}
+.soc a {
+	color:#c90;
+	font-size: 21px;
+	margin:0 5px;
+}
+header h1 {
+	font-size: 90px;
+	font-family: 'Yeseva One', cursive;
+	color:#fff;
+	font-weight: normal;
+	width: 1000px;	
+	margin:120px auto 0;
+	line-height: 110px;
+}
+.uzor {
+	width: 232px;
+	height: 43px;
+	margin:25px auto;
+	background: url(../img/uzor.png);
+}
+.black,
+.white {
+	display: inline-block;
+	width: 230px;
+	height: 57px;
+	text-transform: uppercase;
+	color:#fff;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	transition: 0.5s;
+	line-height: 57px;
+}
+.black {
+	border:1px solid #000;
+	background: rgba(0,0,0,0.6);
+	margin-right: 15px;
+}
+.white {
+	border:1px solid #fff;
+	background: rgba(255,255,255,0.3);
+	margin-left: 15px;
+}
+.black:hover,
+.white:hover {
+	transform: scale(1.2);
+}
+.about {
+	max-width: 1600px;
+	height: 710px;
+	margin:0 auto;
+	text-align: center;
+	background: #fff;
+}
+.cook {
+	width: 440px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 100px;
+	margin-right: 40px;
+}
+.cook h2 {
+	color:#c90;
+	font-size: 36px;
+	font-weight: normal;
+	font-family: 'Yeseva One', cursive;
+	margin: 0;
+}
+.yellow-uzor {
+	width: 247px;
+	height: 24px;
+	margin:20px auto;
+	background: url(../img/yellow-uzor.png);
+}
+.cook p {
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	color:#4c4c4c;
+}
+.cook img {
+	margin-top: 40px;
+	margin-left: 80px;
+}
+.dish {
+	margin-top: 70px;
+	margin-left: 30px;
+}
+.ingred {
+	max-width: 1600px;
+	height: 758px;
+	margin:0 auto;
+	text-align: right;
+	background: url(../img/ingred.jpg);
+}
+.block-ingred {
+	display: inline-block;
+	width: 570px;
+	height: 555px;
+	background: rgba(0,0,0,0.6);
+	margin-top: 100px;
+	margin-right: 200px;
+	text-align: center;
+	color:#fff;
+	padding: 80px;
+	box-sizing: border-box;
+}
+.block-ingred h2 {
+	font-size: 36px;
+	font-family: 'Yeseva One', cursive;
+	margin: 0;
+	font-weight: normal;
+}
+.white-uzor {
+	width: 247px;
+	height: 24px;
+	margin:20px auto;
+	background: url(../img/white-uzor.png);
+}
+.block-ingred p {
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+}
+.block-ingred a {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+	border:8px solid rgba(255,255,255,0.2);
+	border-radius: 50%;
+	margin:30px 8px 0;
+	transition: 1s;
+}
+.block-ingred img {
+	width: 200px;
+}
+.block-ingred a:hover {
+	transform: rotateY(1turn);
+}
+.menu {
+	max-width: 1600px;
+	margin:0 auto;
+	text-align: center;
+	padding:30px 0;
+}
+.block-menu {
+	width: 440px;
+	display: inline-block;
+	margin:0 30px;
+}
+.block-menu h3 {
+	font-family: 'Yeseva One', cursive;
+	color:#c90;
+	font-size: 36px;
+	font-weight: normal;
+	margin: 70px 0 0;
+}
+.punkt-menu {
+	margin-bottom: 45px;
+}
+.title-price {
+	color:#c90;
+	font-family: 'Yeseva One', cursive;
+	font-size: 21px;
+	border-bottom: 1px solid #c90;
+	padding-bottom: 10px;
+	display:flex;
+	justify-content: space-between;
+}
+.info {
+	padding-top: 10px;
+	font-family: 'Lato', sans-serif;
+	text-align: left;
+	font-size: 16px;
+	color:#4c4c4c;
+}
+.reviews {
+	max-width: 1600px;
+	height: 758px;
+	margin:0 auto;
+	text-align: center;
+	background: url(../img/reviews.jpg);
+}
+.block-reviews {
+	display: inline-block;
+	margin-top: 100px;
+	background: rgba(0,0,0,0.6);
+	color:#fff;
+	width: 770px;
+	height: 555px;
+	padding:80px 70px;
+	box-sizing: border-box;
+}
+.block-reviews h3 {
+	font-family: 'Yeseva One', cursive;
+	font-size: 36px;
+	font-weight: normal;
+	margin: 0;
+}
+.block-reviews p {
+	font-size: 25px;
+	font-weight: bold;
+	font-family: 'Gentium Book Basic', serif;
+	color:#dde0df;
+	line-height: 45px;
+	position: relative;
+}
+.block-reviews p:before {
+	content: "\201c";
+	font-size: 96px;
+	font-family: Georgia;
+	opacity: 0.5;
+	position: absolute;
+	top:0;
+	left:-50px;
+}
+.city {
+	font-size: 18px;
+	font-family: 'Lato', sans-serif;
+	margin-top: 40px;
+}
+.reserv {
+	max-width: 1600px;
+	padding:100px 0;
+	margin:0 auto;
+	text-align: center;
+}
+.reserv img {
+	margin-right: 30px;
+}
+.forma-block {
+	display: inline-block;
+	width: 440px;
+	vertical-align: top;
+}
+.forma-block h3 {
+	font-family: 'Yeseva One', cursive;
+	font-size: 36px;
+	margin: 0;
+	color:#c90;
+	font-weight: normal;
+}
+.forma-block p {
+	color:#4c4c4c;
+	font-size: 16px;
+	line-height: 24px;
+	font-family: 'Lato', sans-serif;
+}
+.forma-block form {
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.forma-block form div {
+	width: 200px;
+	text-align: left;
+	margin-bottom: 30px;
+}
+.forma-block label {
+	font-family: 'Open Sans', sans-serif;
+	color:#c90;
+	display: block;
+	margin-bottom: 4px;
+	font-weight: bold;
+	font-size: 14px;
+}
+.forma-block input {
+	width: 100%;
+	height: 34px;
+	padding:0 15px;
+	box-sizing: border-box;
+	font-style:italic;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	color:#7c7c7c;
+	outline: none;
+	border:1px solid #7c7c7c;
+}
+.forma-block input:focus {
+	border:1px solid #c90;
+}
+.forma-block button {
+	font-family: 'Open Sans', sans-serif;
+	color:#fff;
+	border:none;
+	cursor: pointer;
+	background: #c90;
+	width: 200px;
+	height: 36px;
+	font-size: 16px;
+	margin:0 auto;
+}
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Yeseva One', cursive;
+font-family: 'Gentium Book Basic', serif;*/

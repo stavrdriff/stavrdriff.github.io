@@ -1,0 +1,481 @@
+html {
+	--green:#1dde85;
+	--white:#fff;
+	--grey:#454546;
+	--lightgrey:#8f8e91;
+	--center:0 auto;
+	--width:1600px;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+}
+header {
+	max-width: var(--width);
+	height: 800px;
+	margin:var(--center);
+	background: url(../img/header.jpg) center top;
+	text-align: center;
+}
+.top-menu {
+	height: 120px;
+	border-bottom: 1px solid var(--white);
+}
+.container {
+	width: 1170px;
+	margin:var(--center);
+	display:flex;
+	justify-content: space-between;
+}
+.logo {
+	text-decoration: none;
+	font-size: 40px;
+	color:var(--white);
+}
+.logo span {
+	font-family: 'Pacifico', cursive;
+	color:var(--green);
+	text-transform: uppercase;
+}
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display:flex;
+}
+nav li {
+	margin:0 19px;
+}
+nav li:last-child {
+	margin-right: 0;
+}
+nav a {
+	text-decoration: none;
+	color:var(--white);
+	font-weight: 300;
+	text-transform: uppercase;
+	padding-bottom: 15px;
+	position: relative;
+}
+nav a:after {
+	content:"";
+	width: 0;
+	height: 1px;
+	background: var(--green);
+	position: absolute;
+	left:0;
+	bottom:0;
+	transition: .5s;
+}
+nav a:hover:after {
+	width: 100%;
+}
+nav a:hover {
+	color:var(--green);
+}
+header .container {
+	height: 120px;
+	align-items: center;
+}
+header h1 {
+	text-transform: capitalize;
+	color:var(--white);
+	font-family: 'Exo', sans-serif;
+	font-weight: normal;
+	font-size: 48px;
+	margin: 0;
+	padding-top: 260px;
+}
+header h1 span {
+	color:var(--green);
+	text-transform: uppercase;
+	font-weight: 900;
+}
+header p {
+	color:var(--white);
+	font-weight: 300;
+	max-width: 920px;
+	line-height:36px;
+}
+section h2 {
+	font-weight: 500;
+	font-size: 30px;
+	color:var(--grey);
+	margin:120px 0 50px;
+	text-align: center;
+}
+#service {
+	max-width: var(--width);
+	margin:var(--center);
+	text-align: center;
+}
+/*.service > p*/
+#service h2 + p {
+	color:var(--lightgrey);
+	font-weight: 100;
+	font-size: 18px;
+	max-width: 920px;
+	line-height:30px;
+	margin:var(--center);
+	margin-bottom: 80px;
+}
+.service-item {
+	width: 360px;
+	height: 250px;
+	border:1px solid var(--lightgrey);
+	margin-bottom: 50px;
+	padding: 35px 20px;
+	box-sizing: border-box;
+}
+#service .container {
+	flex-wrap: wrap;
+}
+.service-item i {
+	color:var(--grey);
+	font-size: 35px;
+}
+.service-item:hover i,
+.service-item:hover h6 {
+	color:var(--green);
+}
+.service-item h6 {
+	margin:20px 0 35px;
+	font-weight: 500;
+	font-size: 24px;
+}
+.service-item p {
+	font-weight: 100;
+	font-size: 14px;
+	color:var(--lightgrey);
+	line-height: 30px;
+}
+.service-item:hover p {
+	color:var(--grey);
+}
+.service-item:hover {
+	border-color:var(--green);
+	outline:1px solid var(--green);
+}
+.meet {
+	max-width: var(--width);
+	margin:var(--center);
+}
+.man {
+	width: 270px;
+	height: 355px;
+	overflow: hidden;
+	position: relative;
+}
+.name {
+	position: absolute;
+	left:0;
+	bottom:0;
+	width: 100%;
+	height: 70px;
+	background: rgba(69,69,70,0.94);
+	text-align: center;
+	color:var(--white);
+	transition:.3s .4s;
+}
+.name h6 {
+	margin:15px 0 5px;
+	font-size: 18px;
+	font-weight: 400;
+}
+.name p {
+	margin: 0;
+	font-weight: 100;
+	font-size: 14px;
+}
+.mask {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top:0;
+	left:-100%;
+	background: rgba(29,222,133,0.9);
+	transition: .5s;
+}
+.soc {
+	width: 100%;
+	height: 38px;
+	border-top: 1px solid var(--white);
+	border-bottom: 1px solid var(--white);
+	position: absolute;
+	bottom:50px;
+	right:-100%;
+	text-align: center;
+	line-height: 38px;
+	transition: .3s .7s;
+}
+.soc a {
+	color:var(--white);
+	margin:0 5px;
+}
+.man:hover {
+	outline: 10px solid var(--green);
+}
+.man:hover .mask {
+	left:0;
+}
+.man:hover .name {
+	background: none;
+	bottom:170px;
+}
+.man:hover .soc {
+	right:0;
+}
+#portfolio {
+	max-width: var(--width);
+	margin:var(--center);
+}
+.menu-portfolio {
+	text-align: center;
+	margin-bottom: 45px;
+}
+.menu-portfolio a {
+	text-decoration: none;
+	font-weight: 300;
+	font-size: 18px;
+	color:var(--grey);
+	margin:0 23px;
+}
+.menu-portfolio a:hover {
+	color:var(--green);
+	border-bottom: 1px solid var(--green);
+}
+#portfolio .container {
+	flex-wrap: wrap;
+	justify-content: center;
+}
+#portfolio .container a {
+	display: block;
+	width: 390px;
+	height: 390px;
+	overflow: hidden;
+	margin-bottom: 50px;
+}
+#portfolio .container img {
+	transition: 0.5s;
+}
+#portfolio .container a:hover img {
+	transform: scale(1.2);
+}
+#portfolio button {
+	width: 190px;
+	height: 50px;
+	background: var(--green);
+	color:var(--white);
+	border:none;
+	font-weight: 100;
+	font-size: 18px;
+	margin:var(--center);
+	display: block;
+	cursor:pointer;
+}
+body {
+	cursor:url(../img/cursor.png), default;
+}
+#pricing {
+	max-width: var(--width);
+	margin:var(--center);
+	text-align: center;
+}
+.plan {
+	width: 270px;
+}
+.plan h5 {
+	line-height: 30px;
+	color:var(--lightgrey);
+	font-weight: 100;
+	font-size: 14px;
+}
+.plan:hover h5 {
+	color:var(--green);
+}
+.price {
+	padding:20px 0 30px;
+	border:1px solid var(--grey);
+	color:var(--grey);
+	font-family: 'Roboto Slab', serif;
+	font-size: 36px;
+}
+.price span {
+	font-weight: 100;
+	font-size: 18px;
+}
+.price sup {
+	font-size: 24px;
+}
+.plan:hover .price {
+	background: var(--green);
+	color:var(--white);
+	border-color:var(--green);
+}
+.plan-har {
+	padding:30px 0 20px;
+}
+.plan-har p {
+	font-size: 14px;
+	font-weight: 100;
+	color:var(--lightgrey);
+	line-height: 36px;
+}
+.plan:hover .plan-har {
+	border:1px solid var(--green);
+	border-top: none;
+}
+.plan button {
+	width: 100px;
+	height: 40px;
+	border:1px solid var(--grey);
+	color:var(--grey);
+	font-size: 14px;
+	font-weight: 100;
+	background: none;
+	cursor: pointer;
+}
+.plan:hover button {
+	background: var(--green);
+	color:var(--white);
+	border-color:var(--green);
+}
+#contact {
+	max-width: var(--width);
+	margin:var(--center);
+	height: 499px;
+	background: url(../img/contact-fon.jpg);
+}
+#contact h2 {
+	color:var(--white);
+	margin: 0;
+	padding-top: 37px;
+	text-transform: uppercase;
+}
+#contact form {
+	width: 900px;
+	margin:25px auto 0;
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+#contact input {
+	width: 430px;
+	height: 50px;
+	background: none;
+	border:1px solid var(--lightgrey);
+	padding:0 20px;
+	box-sizing: border-box;
+	font-size: 14px;
+	font-weight: 100;
+	font-style:italic;
+	color:var(--white);
+}
+#contact input::placeholder,
+#contact textarea::placeholder {
+	color:var(--white);
+}
+#contact textarea {
+	width: 100%;
+	height: 210px;
+	background: none;
+	border:1px solid var(--lightgrey);
+	padding:20px;
+	box-sizing: border-box;
+	font-size: 14px;
+	font-weight: 100;
+	font-style:italic;
+	color:var(--white);
+	margin:30px 0;
+	resize: none; /*запрещаем растягивать поле*/
+}
+#contact button {
+	display: block;
+	margin:var(--center);
+	width: 195px;
+	height: 50px;
+	background: var(--green);
+	color:var(--white);
+	font-weight: 100;
+	font-size: 18px;
+	border:none;
+	cursor:pointer;
+}
+footer {
+	max-width: var(--width);
+	margin:var(--center);
+	height: 330px;
+	background: #0b0a0a;
+	padding-top: 38px;
+}
+.foot {
+	width: 330px;
+}
+.foot h6 {
+	color:var(--white);
+	font-size: 18px;
+	font-weight: 400;
+	margin:0 0 15px;
+}
+.foot p {
+	font-weight: 100;
+	font-size: 14px;
+	color:var(--lightgrey);
+	line-height: 30px;
+}
+.links {
+	column-count: 2; /*делим на 2 колонки*/
+}
+.links a {
+	font-weight: 100;
+	font-size: 14px;
+	color:var(--lightgrey);
+	text-decoration: none;
+	display: block;
+	line-height: 35px;
+}
+.foot-soc a  {
+	display: inline-block;
+	width: 36px;
+	height: 36px;
+	border:2px solid var(--lightgrey);
+	text-align: center;
+	color:var(--lightgrey);
+	font-size: 20px;
+	line-height: 36px;
+	margin-right: 8px;
+	margin-bottom: 15px;
+}
+.foot input {
+	width: 250px;
+	height: 40px;
+	border:1px solid var(--lightgrey);
+	color:var(--lightgrey);
+	padding:0 9px;
+	background: none;
+	font-size: 14px;
+	font-weight: 300;
+	margin-bottom: 17px;
+}
+.foot button {
+	border:none;
+	cursor: pointer;
+	background: var(--green);
+	width: 105px;
+	height: 37px;
+	color:var(--white);
+	font-size: 16px;
+	font-weight: 300;
+}
+.copy {
+	max-width: var(--width);
+	margin:var(--center);
+	text-align: center;
+	height: 70px;
+	background: #000;
+	color:var(--lightgrey);
+	font-size: 14px;
+	line-height: 70px;
+}
+/*font-family: 'Roboto Slab', serif;
+font-family: 'Exo', sans-serif;
+font-family: 'Pacifico', cursive;*/
