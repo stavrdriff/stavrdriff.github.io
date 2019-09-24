@@ -92,6 +92,7 @@ nav a:hover::after {
 	width: 90%;
 	left: 5%;
 }
+
 .wave {
 	color: #fff;
 	-webkit-animation: 3.9s color infinite;
@@ -743,6 +744,11 @@ footer p {
 	
 	.callback-bt {
 		display: none;
+	}
+}
+@media(max-width: 420px) {
+	.wrapper {
+		font-size: 40px;
 	}
 }
 @media(max-width: 360px) {
