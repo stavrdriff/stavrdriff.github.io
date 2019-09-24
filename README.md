@@ -8,3 +8,4 @@
 * [foinni](stavrdriff.github.io/Foinni/)
 * [zet](stavrdriff.github.io/ZET/)
 * [restoran](stavrdriff.github.io/Restoran/)
+* [TimSolo](stavrdriff.github.io/TimSolo/)
