@@ -1,0 +1,270 @@
+@font-face {
+   font-family: 'Gilroy-Bold';
+   src: url(../fonts/Gilroy-Bold.ttf);
+  }
+
+
+.container {
+   width: 940px;
+   margin: 0 auto;
+}
+.home {
+   width: 100%;
+   height: 600px;
+}
+.homeH1 {
+   font-family: Open Sans;
+   font-weight: bold;
+   font-size: 47px;
+   line-height: 1.36;
+   color: #070707;
+}
+.header {
+   border-bottom: 2px solid #828282;
+}
+.nav_list {
+   list-style: none;
+   padding: 0;
+   text-align: center;
+   margin: 30px 0;
+}
+.nav_item {
+   display: inline-block;
+   margin: 0 15px ;
+}
+.nav_link {
+   text-decoration: none;
+   /* text-transform: capitalize; */
+   font-family: Open Sans;
+   font-size: 18px;
+   line-height: 1.4;
+   color: #828282;
+   padding: 0 3px;
+}
+.nav_item:first-letter {
+   text-transform: uppercase;
+}
+.nav_link_active {
+   color: #000;
+}
+.home_img {
+   width: 100%;
+}
+.aboutMe {
+   width: 100%;
+   
+   background: #F6F6F6;
+   margin: 0 auto;
+   box-sizing: border-box;
+   padding: 110px 0 80px;
+   text-align: center;
+}
+.aboutMe h1,
+.skills h1,
+.portfolio h1,
+footer h1 {
+      font-family: Open Sans;
+      font-weight: bold;
+      font-size: 34px;
+      line-height: 1.35;
+}
+.aboutMe p {
+   margin: 30px auto 60px;
+   max-width: 480px;
+   font-family: Open Sans;
+   font-size: 18px;
+   line-height: 1.4;
+   text-align: center;
+   color: #070707;
+}
+.skills {
+   width: 100%;
+
+   text-align: center;
+   margin: 0 auto;
+   box-sizing: border-box;
+   padding: 75px 0 110px;
+}
+.programs {
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+}
+.progIcon {
+   display: inline-block;
+   text-align: center;
+   width: 166px;
+   height: 223px;
+}
+.progIcon p {
+   margin: 0 auto;
+   font-family: Gilroy-Bold;
+   font-size: 14px;
+   line-height: 17px;
+   color: #828282;
+}
+.stars {
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 0;
+}
+
+.progIcon img {
+   margin-bottom: 24px;
+   transition: 1s;
+   box-sizing: border-box;
+}
+.progIcon img:hover {
+   transform: rotateZ(1turn);
+}
+.progIcon p {
+   width: 80px;
+   height: 30px;
+   margin-bottom: 60px;
+}
+.stars img:hover {
+   transform: rotateY(0.5turn);
+}
+.skillsP {
+   margin: 70px auto 80px;
+   font-family: Open Sans;
+   font-size: 18px;
+   line-height: 1.4;
+   text-align: center;
+   color: #070707;
+}
+.portfolio {
+   width: 100%;
+  
+   background: #F6F6F6;
+   text-align: center;
+   box-sizing: border-box;
+   padding: 90px 0 40px;
+}
+.portfolio h1 {
+   font-family: Open Sans;
+   font-weight: bold;
+   font-size: 34px;
+   line-height: 1.35;
+   margin-bottom: 70px;
+}
+.portfolio {
+   margin: 0 auto;
+   text-align: center;
+}
+.portfA {
+   display: inline-block;
+   width: 260px;
+}
+.portfA a {
+   font-family: Open Sans;
+   font-size: 18px;
+   line-height: 1.4;
+   color: #070707;
+}
+.portfolio img {
+   width: 936px;
+   height: 532px;
+}
+.portfItem {
+   margin-bottom: 100px;
+}
+footer {
+   width: 100%;
+   margin: 0 auto;
+   text-align: center;
+   padding: 65px 0 235px;
+}
+footer p {
+   font-family: Open Sans;
+   font-size: 18px;
+   line-height: 1.4;
+   margin-top: 21px;
+}
+footer button {
+   width: 178px;
+   height: 40px;
+   border: 1px solid #000;
+   border-radius: 20px;
+   background: #000;
+   color: #fff;
+   font-family: Open Sans;
+   font-weight: bold;
+   font-size: 18px;
+   margin-top: 78px;
+   box-shadow: 0 0 10px rgba(0,0,0,0.5);
+   cursor: pointer;
+}
+footer button:hover {
+   transition: 0.5s;
+   background: #828282;
+   border: 1px solid #828282;
+   color: #000;
+   box-shadow: 0 0 20px rgba(0,0,0,1);
+}
+.socials {
+   margin-top: 37px;
+}
+.linkedin {
+   margin: 0 30px;
+   display: inline-block;
+   background: url(../img/LinkedIn.png) no-repeat;
+   width: 42px;
+   height: 42px;
+}
+.linkedin:hover {
+   transition: 0.5s;
+   background: url(../img/LinkGr.png) no-repeat;
+   width: 42px;
+   height: 42px;
+}
+.instagram {
+   margin: 0 30px;
+   display: inline-block;
+   background: url(../img/Istagram.png) no-repeat;
+   width: 42px;
+   height: 42px;
+}
+.instagram:hover {
+   transition: 0.5s;
+   background: url(../img/InstaGr.png) no-repeat;
+   width: 42px;
+   height: 42px;
+}
+.behance {
+   margin: 0 30px;
+   display: inline-block;
+   background: url(../img/Behance.png) no-repeat;
+   width: 42px;
+   height: 42px;
+}
+.behance:hover {
+   transition: 0.5s;
+   background: url(../img/BehGr.png) no-repeat;
+   width: 42px;
+   height: 42px;
+}
+.dribble {
+   margin: 0 30px;
+   display: inline-block;
+   background: url(../img/Dribble.png) no-repeat;
+   width: 42px;
+   height: 42px;
+}
+.dribble:hover {
+   transition: 0.5s;
+   background: url(../img/DriGr.png) no-repeat;
+   width: 42px;
+   height: 42px;
+}
+.end {
+   margin-top: 43px;
+   font-family: Open Sans;
+   font-size: 14px;
+   line-height: 1.35;
+   color: #828282;
+}
+.end a {
+   text-decoration: none;
+   color: #828282;
+}
