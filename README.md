@@ -1,6 +1,8 @@
 # TimSolo
 ### Projects
 
+* [Monticello](monticello/)
+* [Denis Novik](DenisNovik/)
 * [RedLine](RedLine/)
 * [TimSolo](TimSolo/)
 * [restoran](Restoran/)
@@ -10,7 +12,7 @@
 * [watch](watch/)
 * [luxo](luxo/)
 * [webdev](webdev/)
-* [Denis Novik](DenisNovik/)
+
 
 
 
