@@ -1,7 +1,7 @@
 # TimSolo
 ### Projects
 
-##<strong>After Beetrot.academy</strong>
+##<strong>After Beetroot.academy</strong>
 
 * [Monticello](monticello/)
 * [Bhromaon](bhromaon/)
