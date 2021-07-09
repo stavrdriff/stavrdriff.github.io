@@ -1,7 +1,7 @@
 # TimSolo
 ### Projects
 
-##<strong>After Beetroot.academy</strong>
+<strong>After Beetroot.academy</strong>
 
 * [Monticello](monticello/)
 * [Bhromaon](bhromaon/)
@@ -9,7 +9,7 @@
 
 
 
-###<strong>After IT Step academy (old)</strong>
+<strong>After IT Step academy (old)</strong>
 
 * [RedLine](RedLine/)
 * [TimSolo](TimSolo/)
