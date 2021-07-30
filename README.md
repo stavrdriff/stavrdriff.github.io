@@ -10,7 +10,7 @@ Toolbar and modals in item pages, main page.
 <strong>In Beetroot.academy (2021)</strong>
 * [Avana](https://soulraise.github.io/avana/avana/)<br>
 Exam project.<br>
-HTML5, CSS3, JS, jQuery, BEM, Adaptive, OpenGraph<br>
+HTML5, CSS3, JS, jQuery, BEM, Adaptive, OpenGraph, Semantic<br>
 <i><b>July 2021</b></i>
 * [Monticello](monticello/)
 * [Bhromaon](bhromaon/)
