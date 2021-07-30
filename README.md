@@ -2,9 +2,9 @@
 ### Projects
 
 <strong>Participated</strong>
-* [Mygameset.com](https://mygameset.com)
-HTML5, CSS3, JS
-Toolbar and modals in item pages, main page. July 2021
+* [Mygameset.com](https://mygameset.com)<br>
+HTML5, CSS3, JS<br>
+Toolbar and modals in item pages, main page. <br>July 2021
 
 <strong>After Beetroot.academy</strong>
 
