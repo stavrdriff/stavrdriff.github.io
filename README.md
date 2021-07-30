@@ -7,7 +7,7 @@ HTML5, CSS3, JS<br>
 Toolbar and modals in item pages, main page.
 <br><i><b>July 2021</b></i>
 
-<strong>After Beetroot.academy</strong>
+<strong>After Beetroot.academy (2021)</strong>
 
 * [Monticello](monticello/)
 * [Bhromaon](bhromaon/)
@@ -15,7 +15,7 @@ Toolbar and modals in item pages, main page.
 
 
 
-<strong>After IT Step academy (old)</strong>
+<strong>After IT Step academy (2018)</strong>
 
 * [RedLine](RedLine/)
 * [TimSolo](TimSolo/)
