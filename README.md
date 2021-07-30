@@ -8,7 +8,10 @@ Toolbar and modals in item pages, main page.
 <br><i><b>July 2021</b></i>
 
 <strong>After Beetroot.academy (2021)</strong>
-
+* [Avana](https://soulraise.github.io/avana/avana/)<br>
+Exam project.<br>
+HTML5, CSS3, JS, jQuery<br>
+<i><b>July 2021</b></i>
 * [Monticello](monticello/)
 * [Bhromaon](bhromaon/)
 * [Denis Novik](DenisNovik/)
