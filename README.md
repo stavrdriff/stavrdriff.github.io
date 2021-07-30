@@ -7,7 +7,7 @@ HTML5, CSS3, JS<br>
 Toolbar and modals in item pages, main page.
 <br><i><b>July 2021</b></i>
 
-<strong>After Beetroot.academy (2021)</strong>
+<strong>In Beetroot.academy (2021)</strong>
 * [Avana](https://soulraise.github.io/avana/avana/)<br>
 Exam project.<br>
 HTML5, CSS3, JS, jQuery<br>
@@ -18,7 +18,7 @@ HTML5, CSS3, JS, jQuery<br>
 
 
 
-<strong>After IT Step academy (2018)</strong>
+<strong>In IT Step academy (2018)</strong>
 
 * [RedLine](RedLine/)
 * [TimSolo](TimSolo/)
