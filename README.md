@@ -3,14 +3,14 @@
 
 <strong>Participated</strong>
 * [Mygameset.com](https://mygameset.com)<br>
-HTML5, CSS3, JS<br>
+HTML5, CSS3, JS, Adaptive<br>
 Toolbar and modals in item pages, main page.
 <br><i><b>July 2021</b></i>
 
 <strong>In Beetroot.academy (2021)</strong>
 * [Avana](https://soulraise.github.io/avana/avana/)<br>
 Exam project.<br>
-HTML5, CSS3, JS, jQuery<br>
+HTML5, CSS3, JS, jQuery, BEM, Adaptive, OpenGraph<br>
 <i><b>July 2021</b></i>
 * [Monticello](monticello/)
 * [Bhromaon](bhromaon/)
