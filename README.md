@@ -5,7 +5,7 @@
 * [Mygameset.com](https://mygameset.com)<br>
 HTML5, CSS3, JS<br>
 Toolbar and modals in item pages, main page.
-<br><I>July 2021</I>
+<br><i><b>July 2021</b></i>
 
 <strong>After Beetroot.academy</strong>
 
