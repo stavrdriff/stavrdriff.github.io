@@ -1,5 +1,5 @@
 # TimSolo
-***Projects
+### Projects
 
 <strong>Participated</strong>
 * [Mygameset.com](https://mygameset.com)<br>
