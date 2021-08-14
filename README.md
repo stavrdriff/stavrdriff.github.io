@@ -1,5 +1,5 @@
 # TimSolo
-<style="font-size: 20px; font-weight: 700"> Projects</style>
+##<b>Projects<b>
 
 <strong>Participated</strong>
 * [Mygameset.com](https://mygameset.com)<br>
