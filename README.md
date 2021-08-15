@@ -1,6 +1,11 @@
 # TimSolo
 ### Projects
 
+<strong>Test tasks</strong>
+* [Test from WGA agency](berd/)<br>
+HTML5, CSS3, JS, Adaptive<br>
+<br><i><b>August 2021</b></i>
+
 <strong>Participated</strong>
 * [Mygameset.com](https://mygameset.com)<br>
 HTML5, CSS3, JS, Adaptive<br>
