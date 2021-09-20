@@ -2,6 +2,10 @@
 ### Projects
 
 <strong>Test tasks</strong>
+* [Jadoo](jadoo/)<br>
+HTML5(Nunjucks), CSS3(SCSS), JS, SVG, Adaptive
+<br><i><b>September 2021</b></i>
+
 * [Test task WGA](berd/)<br>
 HTML5, CSS3, JS, Adaptive
 <br><i><b>August 2021</b></i>
