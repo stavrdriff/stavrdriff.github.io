@@ -1,7 +1,8 @@
 # TimSolo
-### Projects
 
 ## [Resume](https://bit.ly/2YAPBDm)
+
+### Projects
 
 <strong>Test tasks</strong>
 
