@@ -1,6 +1,8 @@
 # TimSolo
 ### Projects
 
+### [Resume](https://bit.ly/2YAPBDm)
+
 <strong>Test tasks</strong>
 
 * [Test task WGA](berd/)<br>
