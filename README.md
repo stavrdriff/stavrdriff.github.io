@@ -3,9 +3,6 @@
 ## [Resume](https://bit.ly/2YAPBDm)
 
 ### Projects
-* [PROJECT ZUKUNFT](https://projektzukunft.berlin.de/)<br>
-HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Accessibility, Adaptive, Semantic<br>
-<i><b></b>December 2021</i>
 
 * [Zoo Safari](http://azovzoo.com/)<br>
 HTML5(Nunjucks), CSS3(SCSS), JS, jQuery<br>
