@@ -20,7 +20,7 @@ HTML5, CSS3, JS, Adaptive<br>
 Toolbar and modals in item pages, main page.
 <br><i><b>July 2021</b></i>
 
-<strong>skills</strong>
+<strong>for skills</strong>
 * [Popup with cookies](popup-with-cookies/)<br>
 HTML, CSS3(SCSS), JS<br>
 <i><b>January 2022</b></i>
