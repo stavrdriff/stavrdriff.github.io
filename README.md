@@ -25,7 +25,7 @@ Toolbar and modals in item pages, main page.
 HTML5, CSS3(SCSS), JS<br>
 <i><b>January 2022</b></i>
 
-* [desctop menu with perspective animation](down-menu-parallax-effect/)<br>
+* [Desctop menu with perspective animation](down-menu-parallax-effect/)<br>
 * HTML5, CSS3(SCSS)<br>
 <i><b>January 2022</b></i>
 
