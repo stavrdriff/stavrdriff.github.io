@@ -22,7 +22,11 @@ Toolbar and modals in item pages, main page.
 
 <strong>for skills</strong>
 * [Popup with cookies](popup-with-cookies/)<br>
-HTML, CSS3(SCSS), JS<br>
+HTML5, CSS3(SCSS), JS<br>
+<i><b>January 2022</b></i>
+
+* [desctop menu with perspective animation](down-menu-parallax-effect/)<br>
+* HTML5, CSS3(SCSS)<br>
 <i><b>January 2022</b></i>
 
 <strong>In Beetroot.academy (2021)</strong>
