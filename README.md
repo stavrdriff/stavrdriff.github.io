@@ -8,12 +8,6 @@
 HTML5(Nunjucks), CSS3(SCSS), JS, jQuery<br>
 <i><b></b>October 2021</i>
 
-<strong>Test tasks</strong>
-
-* [Test task WGA](berd/)<br>
-HTML5, CSS3, JS, Adaptive
-<br><i><b>August 2021</b></i>
-
 <strong>Participated</strong>
 * [Biv Integrativ](https://www.biv-integrativ.at)<br>
 Carousels, filters.
@@ -30,6 +24,12 @@ HTML5, CSS3(SCSS), JS<br>
 * [Desktop menu with perspective animation](down-menu-parallax-effect/)<br>
 * HTML5, CSS3(SCSS)<br>
 <i><b>January 2022</b></i>
+
+<strong>Test tasks</strong>
+
+* [Test task WGA](berd/)<br>
+HTML5, CSS3, JS, Adaptive
+<br><i><b>August 2021</b></i>
 
 <strong>In Beetroot.academy (2021)</strong>
 * [Avana](https://soulraise.github.io/avana/avana/)<br>
