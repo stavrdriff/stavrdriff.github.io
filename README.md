@@ -15,6 +15,8 @@ HTML5, CSS3, JS, Adaptive
 <br><i><b>August 2021</b></i>
 
 <strong>Participated</strong>
+* [Biv Integrativ](https://www.biv-integrativ.at)<br>
+Carousels, filters.
 * [Mygameset.com](https://mygameset.com)<br>
 HTML5, CSS3, JS, Adaptive<br>
 Toolbar and modals in item pages, main page.
