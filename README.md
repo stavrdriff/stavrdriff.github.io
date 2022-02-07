@@ -10,11 +10,11 @@ HTML5(Nunjucks), CSS3(SCSS), JS, jQuery<br>
 
 <strong>Participated</strong>
 * [Hotel Rose](https://hotelrose.de)<br>
-HTML5, CSS3, JS, Adaptive<br>
+HTML5, CSS3, JS, Adaptive
 <br><i><b>February 2022</b></i>
 
 * [Biv Integrativ](https://www.biv-integrativ.at)<br>
-HTML5, CSS3, JS, Adaptive<br>
+HTML5, CSS3, JS, Adaptive
 <br><i><b>January 2022</b></i>
 
 * [Mygameset.com](https://mygameset.com)<br>
