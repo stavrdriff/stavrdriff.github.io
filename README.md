@@ -9,8 +9,14 @@ HTML5(Nunjucks), CSS3(SCSS), JS, jQuery<br>
 <i><b></b>October 2021</i>
 
 <strong>Participated</strong>
+* [Hotel Rose](https://hotelrose.de)<br>
+HTML5, CSS3, JS, Adaptive<br>
+<br><i><b>February 2022</b></i>
+
 * [Biv Integrativ](https://www.biv-integrativ.at)<br>
-Carousels, filters.
+HTML5, CSS3, JS, Adaptive<br>
+<br><i><b>January 2022</b></i>
+
 * [Mygameset.com](https://mygameset.com)<br>
 HTML5, CSS3, JS, Adaptive<br>
 Toolbar and modals in item pages, main page.
