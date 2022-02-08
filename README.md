@@ -33,7 +33,7 @@ HTML5, CSS3(SCSS), JS<br>
 
 <strong>Test tasks</strong>
 
-* [Test task WGA](berd/)<br>
+* [Test task WGA](https://stavrdriff.github.io/berd/)<br>
 HTML5, CSS3, JS, Adaptive
 <br><i><b>August 2021</b></i>
 
