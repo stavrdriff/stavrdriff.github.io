@@ -4,9 +4,13 @@
 
 ### Projects
 
+* [Projekt Zukunft](https://projektzukunft.berlin.de/)<br>
+HTML5(Nunjucks), CSS3(SCSS), JS, jQuery
+<br><i><b>November 2021</b></i>
+
 * [Zoo Safari](http://azovzoo.com/)<br>
-HTML5(Nunjucks), CSS3(SCSS), JS, jQuery<br>
-<i><b></b>October 2021</i>
+HTML5(Nunjucks), CSS3(SCSS), JS, jQuery
+<br><i><b>October 2021</b></i>
 
 <strong>Participated</strong>
 * [Hotel Rose](https://hotelrose.de)<br>
