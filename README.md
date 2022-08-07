@@ -4,25 +4,33 @@
 
 ### Projects
 
+* [Proviknadveri](https://proviknadveri.com/)<br>
+HTML5(Nunjucks), CSS3(SCSS), native JS, Responsive
+<br><i><b>June 2022</b></i>
+
+* [Hotel Rose](https://hotelrose.de/)<br>
+HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive
+<br><i><b>January 2022</b></i>
+
 * [Projekt Zukunft](https://projektzukunft.berlin.de/)<br>
-HTML5(Nunjucks), CSS3(SCSS), JS, jQuery
+HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive
 <br><i><b>November 2021</b></i>
 
 * [Zoo Safari](http://azovzoo.com/)<br>
-HTML5(Nunjucks), CSS3(SCSS), JS, jQuery
+HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive
 <br><i><b>October 2021</b></i>
 
 <strong>Participated</strong>
 * [Hotel Rose](https://hotelrose.de)<br>
-HTML5, CSS3, JS, Adaptive
+HTML5, CSS3, JS, Responsive
 <br><i><b>February 2022</b></i>
 
 * [Biv Integrativ](https://www.biv-integrativ.at)<br>
-HTML5, CSS3, JS, Adaptive
+HTML5, CSS3, JS, Responsive
 <br><i><b>January 2022</b></i>
 
 * [Mygameset.com](https://mygameset.com)<br>
-HTML5, CSS3, JS, Adaptive<br>
+HTML5, CSS3, JS, Responsive<br>
 Toolbar and modals in item pages, main page.
 <br><i><b>July 2021</b></i>
 
@@ -38,13 +46,13 @@ HTML5, CSS3(SCSS), JS<br>
 <strong>Test tasks</strong>
 
 * [Test task WGA](https://stavrdriff.github.io/berd/)<br>
-HTML5, CSS3, JS, Adaptive
+HTML5, CSS3, JS, Responsive
 <br><i><b>August 2021</b></i>
 
 <strong>In Beetroot.academy (2021)</strong>
 * [Avana](https://soulraise.github.io/avana/avana/)<br>
 Exam project.<br>
-HTML5, CSS3, JS, jQuery, BEM, Adaptive, OpenGraph, Semantic<br>
+HTML5, CSS3, JS, jQuery, BEM, Responsive, OpenGraph, Semantic<br>
 <i><b>July 2021</b></i>
 * [Monticello](monticello/)
 * [Bhromaon](bhromaon/)
