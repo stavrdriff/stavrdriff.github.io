@@ -13,7 +13,7 @@ HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive
 <br><i><b>January 2022</b></i>
 
 * [Projekt Zukunft](https://projektzukunft.berlin.de/)<br>
-HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive
+HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive, Accessibility
 <br><i><b>November 2021</b></i>
 
 * [Zoo Safari](http://azovzoo.com/)<br>
