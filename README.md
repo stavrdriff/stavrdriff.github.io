@@ -4,27 +4,27 @@
 
 ### Projects
 
-* [Proviknadveri](https://proviknadveri.com/)<br>
-HTML5(Nunjucks), CSS3(SCSS), native JS, Responsive
-<br><i><b>June 2022</b></i>
+<!-- * [Proviknadveri](https://proviknadveri.com/)<br> -->
+<!-- HTML5(Nunjucks), CSS3(SCSS), native JS, Responsive -->
+<!-- <br><i><b>June 2022</b></i> -->
 
-* [Hotel Rose](https://hotelrose.de/)<br>
-HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive
-<br><i><b>January 2022</b></i>
+<!-- * [Hotel Rose](https://hotelrose.de/)<br> -->
+<!-- HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive -->
+<!-- <br><i><b>January 2022</b></i> -->
 
-* [Projekt Zukunft](https://projektzukunft.berlin.de/)<br>
-HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive, Accessibility
-<br><i><b>November 2021</b></i>
+<!-- * [Projekt Zukunft](https://projektzukunft.berlin.de/)<br> -->
+<!-- HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive, Accessibility -->
+<!-- <br><i><b>November 2021</b></i> -->
 
-* [Zoo Safari](http://azovzoo.com/)<br>
-HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive
-<br><i><b>October 2021</b></i>
+<!-- * [Zoo Safari](http://azovzoo.com/)<br> -->
+<!-- HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive -->
+<!-- <br><i><b>October 2021</b></i> -->
 
 <strong>Participated</strong>
 
-* [Biv Integrativ](https://www.biv-integrativ.at)<br>
-HTML5, CSS3, JS, Responsive
-<br><i><b>January 2022</b></i>
+<!-- * [Biv Integrativ](https://www.biv-integrativ.at)<br> -->
+<!-- HTML5, CSS3, JS, Responsive -->
+<!-- <br><i><b>January 2022</b></i> -->
 
 * [Mygameset.com](https://mygameset.com)<br>
 HTML5, CSS3, JS, Responsive<br>
