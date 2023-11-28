@@ -25,7 +25,7 @@
 <!-- * [Biv Integrativ](https://www.biv-integrativ.at)<br> -->
 <!-- HTML5, CSS3, JS, Responsive -->
 <!-- <br><i><b>January 2022</b></i> -->
-* [inCode - first project](https://stavrdriff.github.io/inCode-first-project/)<br>
+* [inCode - first project](inCode-first-project/)<br>
 Learn Project
 Teamlead<br>
 Architecture, HTML5, CSS3(SCSS), JS, Adaptive<br>
