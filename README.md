@@ -26,7 +26,7 @@
 <!-- HTML5, CSS3, JS, Responsive -->
 <!-- <br><i><b>January 2022</b></i> -->
 * [inCode - first project](inCode-first-project/)<br>
-Learn Project
+Learn Project<br>
 Teamlead<br>
 Architecture, HTML5, CSS3(SCSS), JS, Adaptive<br>
 <i><b>November 2023</b></i>
