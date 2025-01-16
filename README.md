@@ -20,6 +20,10 @@
 <!-- HTML5(Nunjucks), CSS3(SCSS), JS, jQuery, Responsive -->
 <!-- <br><i><b>October 2021</b></i> -->
 
+* [KidsVenu](https://kidsvenu.nl) <br>
+React.js, Vue.js
+<br><i><b>October 2022 - present</b></i> 
+
 <strong>Participated</strong>
 
 <!-- * [Biv Integrativ](https://www.biv-integrativ.at)<br> -->
