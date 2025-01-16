@@ -22,7 +22,7 @@
 
 * [KidsVenu](https://kidsvenu.nl) <br>
 React.js, Vue.js
-<br><i><b>October 2022 - present</b></i> 
+<br><i><b>October 2023 - present</b></i> 
 
 <strong>Participated</strong>
 
